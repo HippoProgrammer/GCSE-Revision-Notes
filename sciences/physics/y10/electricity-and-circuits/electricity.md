@@ -81,3 +81,13 @@ You can plot graphs to show the relationship between voltage and current. Howeve
 ### Wire IV Graph
 * Straight Line
 * Like resistors, wires follow Ohm's Law almost perfectly.
+
+## Power
+### Definition and Equation
+Power is defined as '', and is measured in Watts.
+
+Power is a measure of energy transfered over time, as defined by these equations:
+
+```Power = Energy Transferred / Time
+Power = Voltage / Current
+Power = Current ^ 2 * Resistance```
