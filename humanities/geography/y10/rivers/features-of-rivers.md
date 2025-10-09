@@ -16,11 +16,12 @@
 ## From Source to Mouth
 ### Factors
 | Factor | Increases (further downstream) | Decreases (further downstream) |
-| Discharge | :white_checkmark: | :x: |
-| Channel Width | :white_checkmark: | :x: |
-| Channel Depth | :white_checkmark: | :x: |
-| Velocity | :white_checkmark: | :x: |
-| Load Quantity | :white_checkmark: | :x: |
-| Load Particle Size | :x: | :white_checkmark: |
-| Channel Bed Roughness | :x: | :white_checkmark: |
-| Slope Angle / Gradient | :x: | :white_checkmark: |
+| ------ | ------------------------------ | ------------------------------ |
+| Discharge | :white_check_mark: | :x: |
+| Channel Width | :white_check_mark: | :x: |
+| Channel Depth | :white_check_mark: | :x: |
+| Velocity | :white_check_mark: | :x: |
+| Load Quantity | :white_check_mark: | :x: |
+| Load Particle Size | :x: | :white_check_mark: |
+| Channel Bed Roughness | :x: | :white_check_mark: |
+| Slope Angle / Gradient | :x: | :white_check_mark: |
