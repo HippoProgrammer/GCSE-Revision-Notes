@@ -26,23 +26,18 @@ There are 4 main types:
 ### Definition
 Transportation is how the river moves its load.
 
-### Location
-
+### Location
 In all three courses.
 
 ### Types
 There are 4 main types (from top to bottom, decreasing material size and energy / flow rate required to occur):
 
 Rolling along the river bed:
-
 	**Traction**: Large boulders and rocks are rolled along the river bed
-
 	**Saltation**: Small pebbles and stones are bounced along the river bed
 
 Floating in the river water:
-
 	**Suspension**: Fine, light material is carried along by the river
-
 	**Solution**: Minerals are dissolved in the river water
 
 ## Deposition
