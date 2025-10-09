@@ -27,6 +27,7 @@ There are 4 main types:
 Transportation is how the river moves its load.
 
 ### Location
+
 In all three courses.
 
 ### Types
