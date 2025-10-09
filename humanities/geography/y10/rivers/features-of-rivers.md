@@ -25,3 +25,34 @@
 | Load Particle Size | :x: | :white_check_mark: |
 | Channel Bed Roughness | :x: | :white_check_mark: |
 | Slope Angle / Gradient | :x: | :white_check_mark: |
+| Number of Tributaries | :x: | :white_check_mark: |
+
+### Courses
+**Upper Course**:
+* From the source to the Middle Course
+* Depth: Shallow
+* Width: Narrow, V-shaped valley
+* Processes: Erosion, Transportation
+* Features: Waterfalls, Rapids
+
+**Middle Course**:
+* From the Upper Course to the Lower Course
+* Depth: Deeper
+* Width: Wider, gentle valley
+* Processes: Erosion, Transportation, Deposition
+* Features: Meanders
+ 
+**Lower Course**:
+* From the Middle Course to the mouth
+* Depth: Deep
+* Width: Wide, flat
+* Processes: Transportation, Deposition
+* Features: Floodplains
+
+### Profiles
+**Cross Profile**:
+* A cross-section of the river, showing the shape of the valley, bed, and channel itself
+
+**Long Profile**:
+* A diagram of the elevation of the river, showing the height of the river and surrounding land
+
