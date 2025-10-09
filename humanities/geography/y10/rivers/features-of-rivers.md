@@ -10,5 +10,17 @@
 * Width - How wide the river channel is
 * Depth - How deep the river channel is
 * Velocity - Speed of flow
-* Thalweg - fastest current
-* Load - amount of material carried by a river
+* Thalweg - Fastest current
+* Load - Amount of material carried by a river
+
+## From Source to Mouth
+### Factors
+| Factor | Increases (further downstream) | Decreases (further downstream) |
+| Discharge | :white_checkmark: | :x: |
+| Channel Width | :white_checkmark: | :x: |
+| Channel Depth | :white_checkmark: | :x: |
+| Velocity | :white_checkmark: | :x: |
+| Load Quantity | :white_checkmark: | :x: |
+| Load Particle Size | :x: | :white_checkmark: |
+| Channel Bed Roughness | :x: | :white_checkmark: |
+| Slope Angle / Gradient | :x: | :white_checkmark: |
