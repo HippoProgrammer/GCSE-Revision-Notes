@@ -54,11 +54,11 @@ Resistance is a measure of p.d. per unit of current, as defined by this equation
 
 Voltage (V) = Current (I) * Resistance (R)
 
-(Volts, V) (Amps, A) (Ohms, omega)
+(Volts, V) (Amps, A) (Ohms, Ω)
 
 ### Series + Parallel
 **Series**:
-* Resistors in series add: e.g. 10 Ohms + 10 Ohms = 20 Ohms
+* Resistors in series add: e.g. 10Ω + 10Ω = 20Ω
 
 **Parallel**:
 * Resistors in parallel reduce the total resistance: 1/Rt = 1/R1 + 1/R2, therefore the total resistance is always less than the resistance of the lowest resistor.
@@ -84,7 +84,7 @@ You can plot graphs to show the relationship between voltage and current. Howeve
 
 ## Power
 ### Definition and Equation
-Power is defined as '', and is measured in Watts.
+Power is defined as the amount of energy transferred or used per unit of time, and is measured in Watts.
 
 Power is a measure of energy transfered over time, as defined by these equations:
 
