@@ -49,12 +49,12 @@
 * Processes: Transportation, Deposition
 * Features: Floodplains
 
-### Profiles
+### Profiles
 **Cross Profile**:
 * A cross-section of the river, showing the shape of the valley, bed, and channel itself
-* ![AQA Cross Profile](https://bam.files.bbci.co.uk/bam/live/content/zq4vk7h/large)
+![AQA Cross Profile](https://bam.files.bbci.co.uk/bam/live/content/zq4vk7h/large)
 
 **Long Profile**:
 * A diagram of the elevation of the river, showing the height of the river and surrounding land
-* ![AQA Long Profile](https://bam.files.bbci.co.uk/bam/live/content/z26jhv4/large)
+![AQA Long Profile](https://bam.files.bbci.co.uk/bam/live/content/z26jhv4/large)
 
