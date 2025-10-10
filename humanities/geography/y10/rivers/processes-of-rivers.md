@@ -14,7 +14,7 @@ Mostly in the upper course.
 ### Types
 There are 4 main types:
 
-**Hydraulic Action** - The fource of the river causes air and water to be trapped in cracks in rocks and leads to them breaking up.
+**Hydraulic Action** - The force of the river causes air and water to be trapped in cracks in rocks and leads to them breaking up.
 
 **Abrasion** - Rocks carried along by the river wear down the bed and banks (like sandpaper).
 
