@@ -11,7 +11,7 @@
 
 3. Tu t’entends bien avec ta famille ? Pourquoi / Pourquoi pas ?
 
-*Answer not written*
+*Je m'entends bien avec ma mère, parce qu'elle peut être très sympa. Cependant, je ne m'entends pas avec mon père, car il est souvent embetant. J'essaie qu'il devient plus génial.*
 
 4. Qu’est-ce que tu penses du mariage ? Tu te marieras à l’avenir ?
 
