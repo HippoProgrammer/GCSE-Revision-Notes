@@ -15,7 +15,7 @@
 
 4. Qu’est-ce que tu penses du mariage ? Tu te marieras à l’avenir ?
 
-*Answer not written*
+*Je crois que le mariage est
 
 5. Qu’est-ce que tu as fait avec tes amis le week-end dernier ?
 
